@@ -1,4 +1,4 @@
-FULLY CONVOLUTIONAL NETWORKS FOR MULTI-TEMPORAL SAR IMAGE CLASSIFICATION
+# FULLY CONVOLUTIONAL NETWORKS FOR MULTI-TEMPORAL SAR IMAGE CLASSIFICATION
 
 These are a set of functions to apply a fully convolutional network on a multi-temporal SAR images based on
 
