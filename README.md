@@ -6,4 +6,4 @@ A. G. Mullissa, C. Persello, andV.Tolpekin, “Fully convolutional networks for 
 
 https://www.researchgate.net/publication/326834645_Fully_Convolutional_Networks_for_Multi-Temporal_SAR_Image_Classification
 
-The original implementation was in matlab using the MatConvNet library. This is the same version implemented in Python.
+The original implementation was in matlab using the MatConvNet library. This is the same version implemented in Python. The data used in the paper will be released soon.
